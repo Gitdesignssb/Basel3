@@ -1,7 +1,0 @@
-Asset Class,Exposure Amount (USD),Current RW (%),Basel III RW (%)
-Residential Mortgages,50000000,35,50
-Corporate Loans (Rated BBB),75000000,100,85
-Retail Loans,30000000,75,100
-Sovereign Bonds (Rated AA),20000000,0,20
-Trading Book Assets,15000000,100,120
-Operational Risk (Gross Income),10000000,,15
